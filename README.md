@@ -1,10 +1,11 @@
-# desafio Cadastro Pessoal – Atração.
+# Desafio: Cadastro Pessoal – Atração.
 
 Orietações do projeto:
 
-Criar um formulário para registrar dados pessoais.
+Criar um formulário para registro de dados pessoais.
 
-Domínio - Modelagem de Dados.
+Domínio: Modelagem de Dados.
+
 - Cadastro Pessoal com os campos: Nome, Cpf, Rg, Sexo, Endereço, Número, Bairro, Cidade, Estado, Cep, Telefone Fixo, Telefone Celular.
 
 Regra de Negócio:
